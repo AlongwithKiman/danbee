@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/danbee/static/css/main.e6c13ad2.css",
+    "main.js": "/danbee/static/js/main.86a02865.js",
+    "static/js/787.4cf51cf9.chunk.js": "/danbee/static/js/787.4cf51cf9.chunk.js",
+    "index.html": "/danbee/index.html",
+    "main.e6c13ad2.css.map": "/danbee/static/css/main.e6c13ad2.css.map",
+    "main.86a02865.js.map": "/danbee/static/js/main.86a02865.js.map",
+    "787.4cf51cf9.chunk.js.map": "/danbee/static/js/787.4cf51cf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.86a02865.js"
+  ]
+}
